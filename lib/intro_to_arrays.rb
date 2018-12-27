@@ -5,3 +5,5 @@ end
 
 def array_with_two_elements
   two_elements = ["Hello", "World!"]
+  return two_elements
+end 
