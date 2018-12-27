@@ -33,8 +33,10 @@ def last_element_with_array_methods(array)
   return south_east_asia.last 
 end 
 
-def length_of_array
+def length_of_array(array)
   programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+  return programming_languages.count
+end 
   
   
   
