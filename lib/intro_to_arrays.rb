@@ -27,6 +27,10 @@ def first_element_with_array_methods(array)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   return south_east_asia.first
 end
+
+def last_element_with_array_methods(array)
+  south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  
   
   
   
