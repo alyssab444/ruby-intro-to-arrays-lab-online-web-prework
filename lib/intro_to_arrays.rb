@@ -33,7 +33,8 @@ def last_element_with_array_methods(array)
   return south_east_asia.last 
 end 
 
-def 
+def length_of_array
+  
   
   
   
